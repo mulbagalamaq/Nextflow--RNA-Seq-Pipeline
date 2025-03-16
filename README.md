@@ -8,7 +8,7 @@ This pipeline automates the process of RNA-seq analysis by performing several st
 
 
 
-![Flowchart](/Users/zeus_10/Desktop/Projects/nextflow/flowchart.png)
+![Flowchart](flowchart.png)
 
 ## Prerequisites
 
