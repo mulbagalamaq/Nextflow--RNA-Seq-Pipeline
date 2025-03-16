@@ -63,6 +63,3 @@ The pipeline uses the following tools and libraries:
 
 All dependencies are included in the Docker image.
 
----
-
-This README.md provides a clear, structured overview of your Nextflow RNA-Seq pipeline, including its purpose, prerequisites, installation steps, usage instructions, expected outputs, and dependencies, all formatted in proper Markdown syntax.
